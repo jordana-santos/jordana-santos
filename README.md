@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi! I'm Jordana
+
+- 🔭 I’m currently working on my Swift Student Challenge project
+- 🌱 I’m currently learning SwiftUI and UX/UI
+- 💬 Ask me about software development or C/C++
+- 📫 How to reach me: **jordanalsantos@hotmail.com** or [LinkedIn](https://www.linkedin.com/in/santos-jordana)
 
 <!--
 **jordana-santos/jordana-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
